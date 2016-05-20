@@ -1,0 +1,16 @@
+#Greenfoot properties
+#Fri May 20 12:12:07 CEST 2016
+class.paddle.superclass=greenfoot.Actor
+class.COUNTER.superclass=greenfoot.Actor
+class.MyWorld.image=space1.jpg
+mainWindow.width=850
+class.instuctions.superclass=greenfoot.Actor
+class.MyWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=2.8.0
+class.ball.image=ball.png
+world.lastInstantiated=MyWorld
+mainWindow.y=40
+mainWindow.x=40
+class.ball.superclass=greenfoot.Actor
+mainWindow.height=600
